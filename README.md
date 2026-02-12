@@ -32,7 +32,7 @@
 
 ---
 
-## 🧑‍💻 About Me
+## About Me
 
 ```yaml
 name: Hitanshi Nahar
