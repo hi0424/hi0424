@@ -15,7 +15,7 @@
   <br/>
 
   <!-- Social Badges — replace # with your actual links -->
-  <a href="https://www.linkedin.com/in/hitanshi-nahar-173a9a229/">
+  <a href="https://www.linkedin.com/in/hitanshi-nahar/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>&nbsp;
   <a href="#">
